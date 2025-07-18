@@ -1,3 +1,6 @@
+// src/index.js
+
+import 'bootstrap/dist/css/bootstrap.min.css'; // <-- This line enables Bootstrap styling
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
